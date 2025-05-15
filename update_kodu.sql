@@ -1,0 +1,1 @@
+update tbl_uyeler set uye_eposta = 'azraparlak@mail.com' where uye_no = 20
